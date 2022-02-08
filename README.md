@@ -21,9 +21,15 @@ There are 21 columns in the dataset, but I only used columns which are listed be
 
 Figure 1: Bar chart and Donut chart showing Flight Delay, Total Flight, and Flight Delay within the Airlines
 
+![Bar Chart!](/resources/barchart.png "Bar Chart")
+
 Figure 2: Force Layout Graph showing the flight delay from the origin and the destination between the top 20 airports
 
+![Force Layout Graph!](/resources/ForceLayoutGraph.png "Force Layout Graph")
+
 Figure 3: Choropleth map showing the flight delay in the U.S. States
+
+![Choropleth Map!](/resources/ChoroplethMap.png "Choropleth Map")
 
 ## Conclusion
 
