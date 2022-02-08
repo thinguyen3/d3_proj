@@ -1,5 +1,7 @@
 # U.S. Flight Delay Dashboard
 
+## Introduction and Data
+
 Air travels have a significant role in the economy of agencies and airports. One of the important modern life challenges of airports and airline agencies is flight delay. A flight delay is when an airline flight takes off and/or lands later than its scheduled time. The Federal Aviation Administration (FAA) considers a flight to be delayed when it is 15 minutes later than its scheduled time. Flight delay is inevitable and it plays an important role in both profits and loss of the airlines.
 
 I used HTML5, CSS6, Javascript, and D3 to create this dashboard, the goal is to take a look inside into the U.S flight delay data by using many various visualizations such as chart, donut, force, choropleth map to answer these questions: how does the total number of flight delay change, which airport has the most flight delay, the relationship between origin and destination airports.
